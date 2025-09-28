@@ -4,7 +4,7 @@
 
 ## Using cypress and Javascript to create automation tests
 
-## Use
+Use
 
 `git clone`
 
